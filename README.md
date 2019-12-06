@@ -5,3 +5,6 @@
 ```shell
 npm i -S afeiship/ushell-module-sysinfo
 ```
+
+## resources
+- https://linuxize.com/post/how-to-check-your-ubuntu-version/
