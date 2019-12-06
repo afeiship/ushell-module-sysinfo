@@ -1,6 +1,7 @@
 # ushell-module-sysinfo
-Unix like shell module for system info.
+> Unix like shell module for system info.
 
-## resources:
-
-## commands:
+## installation
+```shell
+npm i -S afeiship/ushell-module-sysinfo
+```

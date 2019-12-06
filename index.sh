@@ -13,5 +13,9 @@ if [ -f /etc/redhat-release ]; then
   source $ROOT_PATH/index_centos.sh;
 fi
 
+if [ -f /etc/lsb-release ]; then
+   source $ROOT_PATH/index_ubuntu.sh;
+fi
+
 
 unset ROOT_PATH;
