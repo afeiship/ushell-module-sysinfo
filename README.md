@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S afeiship/ushell-module-sysinfo
+npm i -S @feizheng/ushell-module-sysinfo
 ```
 
 ## resources

@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-sysinfo",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-sysinfo",
+  "version": "1.0.0",
   "description": "Unix like shell module for system info.",
   "main": "index.sh",
   "repository": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-sysinfo/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-sysinfo#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-sysinfo#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
