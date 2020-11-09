@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-sysinfo
+npm i -S @jswork/ushell-module-sysinfo
 ```
 
 ## resources

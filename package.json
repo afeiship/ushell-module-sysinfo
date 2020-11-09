@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-sysinfo",
+  "name": "@jswork/ushell-module-sysinfo",
   "version": "1.0.0",
   "description": "Unix like shell module for system info.",
   "main": "index.sh",
